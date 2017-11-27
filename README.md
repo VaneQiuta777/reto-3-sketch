@@ -17,4 +17,4 @@ Descripción
 
 Se muestra un sketch, elaborado en papel, para la herramienta del dashboard de Laboratoria.
 
-![sketches-laboratoria](assets/images/sketches-laboratoria.jpg)
+![sketches-laboratoria](assets/images/sketch-laboratoria.jpg)
